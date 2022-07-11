@@ -3,7 +3,7 @@ import './App.css';
 
 function Header() {
   return <header>
-    <h1><a href="/index.html">WEB</a></h1>
+    <h1><a href="/index.html">WEB - Login</a></h1>
   </header>
 }
 
