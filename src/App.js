@@ -10,7 +10,7 @@ function Header() {
 function Article()
 {
   return <article>
-    <h2>Welcome, WEB</h2>
+    <h2>Welcome, WEB!!!!</h2>
   </article>
 }
 
